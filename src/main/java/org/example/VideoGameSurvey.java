@@ -27,11 +27,11 @@ public class VideoGameSurvey {
             if (input.equalsIgnoreCase("Yes") || input.equalsIgnoreCase("Yeah") || input.equalsIgnoreCase("Y") || input.equalsIgnoreCase("YES!")) {
                 System.out.println("Awesome!");
             } else {
-                System.out.println("Wow. You have no sense of fun.");
+                System.out.println("You have no sense of fun.");
             }
             //Q2
             System.out.println("");
-            System.out.println("Question 2: What types of videogames do you play?(Please use abbreviated froms of games such as FPS, MMO, RPG etc).");
+            System.out.println("Question 2: What types of video Games do you play?(Please use abbreviated froms of games such as FPS, MMO, RPG etc).");
             String input2 = keyboard.nextLine();
             if (input2.equalsIgnoreCase("Fps")) {
                 System.out.println("Fantastic! Me too!");
@@ -60,10 +60,10 @@ public class VideoGameSurvey {
             System.out.println("");
             System.out.println("Question 5: What is your ALL-TIME favorite videogame?");
             String input5 = keyboard.nextLine();
-            if (input5.equalsIgnoreCase("Skyrim")) {
+            if (input5.equalsIgnoreCase("BGMI")) {
                 System.out.println("Really?! ME TOO!");
             } else {
-                System.out.println("Great! My personal favorite is SKYRIM!");
+                System.out.println("Great! My personal favorite is BGMI!");
             }
             System.out.println("");
             System.out.println("THANK YOU FOR TAKING THE GRAND SURVEY OF VIDEOGAMES!");
