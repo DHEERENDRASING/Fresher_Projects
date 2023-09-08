@@ -6,58 +6,63 @@ DHEERENDRA SINGH
 
 Email :- ds222248@gmail.com
 
+GIT Link :-  https://github.com/DHEERENDRASING
+
+LinkedIn :-  https://www.linkedin.com/in/dheerendra-singh-985b14159
 
+
 
 OBJECTIVE :-
 To become a successful expert in the field of Information Technology by channelizing technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization .
 
 
 Profile summary :-
-To work for my career growth and better prospects, which contribute to the productivity and      profitability of the organization.
-    Detail oriented with an analytical bent of mind and possess positive attitude.
+Enthusiastic and detail-oriented Software Automation Tester with a strong foundation in testing methodologies and a passion for ensuring the quality and reliability of software applications. I am eager to apply my technical skills and knowledge to contribute to the success of a dynamic software development team . 
 
-   Have been proactive and focused as a student.
+Key Skills:
 
-Proficiency at grasping new technical concepts quickly & utilising it in a productive manner.
-
-An effective communicator with strong analytical, interpersonal and problem solving abilities.
+1.Test Automation : 
+Proficient in creating and executing automated test scripts using industry-standard tools such as Selenium WebDriver and Appium, with a focus on improving efficiency and test coverage.
 
 
+2.Manual Testing : 
 
-
-
-
+Skilled in designing, documenting, and executing manual test cases to identify and report defects, ensuring a comprehensive testing approach.
+3.Test Frameworks: 
+Familiar with test automation frameworks like TestNG and JUnit for organizing and managing test suites, enabling efficient test maintenance.
+4.Programming Languages: 
+Proficient in programming languages such as Java, allowing for the development of robust automation scripts and enhancing debugging capabilities.
+5.Version Control:
+ Experience with version control systems like Git to manage and collaborate on test code repositories.
+6.Bug Tracking:
+ Competent in using bug tracking tools like JIRA to log, track, and prioritize defects, facilitating effective communication with development teams.
+7.Agile methodologies: 
+Knowledge of Agile development practices and the ability to work collaboratively in cross-functional teams.
+8.Analytical Skills: 
+Strong problem-solving abilities with a keen eye for detail to identify issues and provide actionable feedback to improve software quality.
+9.Communication:
+ Effective verbal and written communication skills for documenting test cases, test plans, and test reports.
 
 Certificates :-
-
-     
 
 Relevel :-
 
     Certified by relevel for completion of 365 days Full automation Software testing Course .
 
-
     Great Learning Academy :-
 
-    Certified by great learning  Academy for completing programing basics course. 
+   1. Certified by great learning Academy for completing programing basics course. 
+    2. Certified by great learning Academy for completing Java Programming course. 
+    3. Certified by great learning Academy for completing Software Testing tutorial course.
 
-    Certified by great learning  Academy for completing Java Programming course. 
-      
-    Certified by great learning  Academy for completing Software Testing tutorial course.
+   Udemy :-
 
+    Certified by Udemy for completion of Completing Rahul Shetty’s Selenium webdriver with Java Basics to Advanced and Frameworks course .
 
-    Udemy :-
+   TCS ION:-
 
-     Certified by Udemy for completion of Completing Rahul Shetty’s Selenium webdriver with Java Basics to Advanced and Frameworks course .
-
-
-    TCS ION:-
-
-     Certified by TCS ION for completing Introduction to Soft Skills course .
-      
-     Certified by TCS ION for completing Communication SKill course .
-
-
+   1. Certified by TCS ION for completing Introduction to Soft Skills course .
+    2. Certified by TCS ION for completing Communication SKill course .
 
 EDUCATIONAL QUALIFICATION :-
 
@@ -85,8 +90,8 @@ M.P. Board
 
      1. Project Title - Automated Test Script Development
 
-      Description - Developed automated test scripts using Selenium WebDriver to validate the login functionality of a sample e-commerce website. Utilized Java programming for script development.
-
+      Description -
+        Developed automated test scripts using Selenium WebDriver to validate the login functionality of a sample e-commerce website. Utilized Java programming for script development.
       Technologies Used - Selenium WebDriver, Java
 
       Role - Tester and Developer 
@@ -94,67 +99,34 @@ M.P. Board
       Duration - march 2023 - april 2023
 
 2. Project Title - Manual Testing on a mens clothing Site .
+      Description -
+Developed Test Cases and Test Scenerios to validate the login functionality of a sample Mens clothing website.
 
-      Description - Developed Test Cases and Test Scenerios to validate the login functionality of a sample Mens clothing website.
-
-      Role - Tester  
+       Role - Tester  
 Duration - February 2023 - March 2023
 3. Project Title - Manual Testing on a E commerce Site .
 
-      Description - Developed Test Cases and Test Scenerios with Test plan to test End to End for a clothing website.
+      Description - 
+  Developed Test Cases and Test Scenerios with Test plan to test End to End for clothing website.
 
       Role - Tester  
 
-Duration - march 2023 - april 2023
-
-  
-Skills :-
-Technical Skills :-
-
-. Application Development Tools :	Selenium Webdriver
-. Language / Frameworks :	Java ,Beginner Python, TestNG , POM .
-. Build Tools : Maven
-. Source Safe Tool : GIT
-Soft Skills :-
-. Active Listening
-. Communication
-. Compatibility
-
-Computer Skills :-
-. Good Typing Speed
-
-. Computer Knowledge
-
-. Beginner	Excel
-
-. Beginner	word
-
+Duration - march 2023 - april 2023 .
 
 Interests :-
 
 . Computers and Gadgets
 . Coding programs
 . Photography
-
 HOBBIES :-
 . Playing Chess
 . Bollyball
-
 Languages :-
 
 . English
 
 . Hindi
 
-PERSONAL DETAILS :-
+DECELARATION :-
 
-Name :-           Dheerendra Singh       Father Name :-   Mr. Ramlakhan Singh                                   .      Date of Birth :-    10/05/1999
-Marital Status :-   Single
-
-Permanent add. :-  Vill . Lain ,Post - Badhra,Block - Semariya , Dist - Rewa (M.P.),486445
-
-
-
-DECELARATION:-
-
-I declare that the above mentioned information is true and to the best of my knowledge.
+I declare that the above mentioned information is true and to the best of my            knowledge.
