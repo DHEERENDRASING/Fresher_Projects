@@ -17,7 +17,7 @@ public class average {
         double b = sc.nextDouble();
         System.out.println("please enter third number :- ");
         double c = sc.nextDouble();
-        System.out.println("the answer for your quwstion is :-  ");
+        System.out.println("the answer for your question is :-  ");
         double avg = PrintAverage(a, b, c);
     }
 }
