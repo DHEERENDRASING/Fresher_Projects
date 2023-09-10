@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+Pom.xml
+README.md
+.idea/
+test/
