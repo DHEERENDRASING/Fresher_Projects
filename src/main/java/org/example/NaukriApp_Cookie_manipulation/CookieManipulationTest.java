@@ -1,4 +1,4 @@
-package org.example.NAUKRIdotCOM_FUllTEst;
+package org.example.NaukriApp_Cookie_manipulation;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;

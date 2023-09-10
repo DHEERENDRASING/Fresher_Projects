@@ -1,4 +1,4 @@
-package org.example.Basic_Java_practice;
+package org.example;
 
 public class diamondloop {
     public static void main(String[] args) {
